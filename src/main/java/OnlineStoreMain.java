@@ -157,7 +157,7 @@ public class OnlineStoreMain implements Commands {
                 headUserNameCell.setCellValue("User Name");
 
                 Cell headProductNameCell = headRow.createCell(2);
-                headProductNameCell.setCellValue("Product name");
+                headProductNameCell.setCellValue("Product ID");
 
                 Cell headOrderQtyCell = headRow.createCell(3);
                 headOrderQtyCell.setCellValue("Qty");
